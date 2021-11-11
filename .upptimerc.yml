@@ -5,8 +5,8 @@ repo: Uptime # The name of this repository
 sites:
   - name: Gaming UFO Webseite
     url: https://gaming-ufo.de
-  - name: Wikipedia
-    url: https://en.wikipedia.org
+  - name: Gaming UFO Panel
+    url: https://panel.gaming-ufo.de
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Test Broken Site
