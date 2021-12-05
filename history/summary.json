@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/gaming-ufo.de",
     "slug": "gaming-ufo-webseite",
     "status": "up",
-    "uptime": "99.59%",
+    "uptime": "99.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.59%",
-    "uptimeYear": "99.59%",
-    "time": 1051,
-    "timeDay": 670,
-    "timeWeek": 1545,
-    "timeMonth": 1051,
-    "timeYear": 1051,
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.61%",
+    "time": 1047,
+    "timeDay": 928,
+    "timeWeek": 1565,
+    "timeMonth": 1047,
+    "timeYear": 1047,
     "dailyMinutesDown": {
       "2021-11-23": 102,
       "2021-11-16": 30
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 927,
-    "timeDay": 672,
-    "timeWeek": 892,
-    "timeMonth": 927,
-    "timeYear": 927,
+    "time": 923,
+    "timeDay": 818,
+    "timeWeek": 890,
+    "timeMonth": 923,
+    "timeYear": 923,
     "dailyMinutesDown": {
       "2021-11-16": 30
     }
@@ -51,11 +51,11 @@
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
-    "time": 279,
-    "timeDay": 397,
-    "timeWeek": 174,
-    "timeMonth": 279,
-    "timeYear": 279,
+    "time": 272,
+    "timeDay": 76,
+    "timeWeek": 169,
+    "timeMonth": 272,
+    "timeYear": 272,
     "dailyMinutesDown": {
       "2021-11-29": 32
     }
