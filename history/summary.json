@@ -4,15 +4,15 @@
     "url": "https://gaming-ufo.de",
     "icon": "https://favicons.githubusercontent.com/gaming-ufo.de",
     "slug": "gaming-ufo-webseite",
-    "status": "up",
-    "uptime": "93.60%",
-    "uptimeDay": "32.47%",
+    "status": "down",
+    "uptime": "93.66%",
+    "uptimeDay": "34.31%",
     "uptimeWeek": "51.69%",
-    "uptimeMonth": "87.50%",
-    "uptimeYear": "93.60%",
+    "uptimeMonth": "87.61%",
+    "uptimeYear": "93.66%",
     "time": 939,
     "timeDay": 670,
-    "timeWeek": 669,
+    "timeWeek": 671,
     "timeMonth": 924,
     "timeYear": 939,
     "dailyMinutesDown": {
@@ -24,7 +24,7 @@
       "2022-01-05": 491,
       "2022-01-04": 492,
       "2022-01-03": 544,
-      "2022-01-02": 530
+      "2022-01-02": 484
     }
   },
   {
@@ -39,7 +39,7 @@
     "uptimeMonth": "90.63%",
     "uptimeYear": "95.17%",
     "time": 822,
-    "timeDay": 792,
+    "timeDay": 784,
     "timeWeek": 736,
     "timeMonth": 805,
     "timeYear": 822,
